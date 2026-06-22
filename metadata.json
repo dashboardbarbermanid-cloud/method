@@ -1,0 +1,6 @@
+{
+  "name": "METHOD",
+  "description": "METHOD Elite Grooming & Fashion. Interactive premium dark aesthetic catalog featuring curated haircare products and iconic apparel, with a seamless custom shopping cart, checkout flow and persistent user profile options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
